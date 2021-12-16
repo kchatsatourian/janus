@@ -1,0 +1,14 @@
+{
+  "categories": {
+    "firefox": [
+      "tabs"
+    ]
+  },
+  "homepage": {
+    "en-US": "https://github.com/kchatsatourian/janus"
+  },
+  "requires_payment": false,
+  "version": {
+    "license": "MIT"
+  }
+}
